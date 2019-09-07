@@ -58,7 +58,7 @@ We aimed to make a nice user interface and a good admin tool at the same time. S
 - torrenttrader (http://www.torrentrader.org - dead)
 - bytemoonsoon (deadlink)
 - Tbdev: CoLdFuSiOn (http://www.tbdev.net - dead)
-- xbtt: Olaf van der Spek (http://xbtt.sourceforge.net)
+- xbtt: Olaf van der Spek (https://github.com/OlafvdSpek/xbt)
 - phpmailer (http://sourceforge.net/projects/phpmailer)
 - smf (http://www.simplemachines.org/)
 - bTemplate: Brian Lozier (http://www.massassi.com/bTemplate)
